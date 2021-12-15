@@ -215,6 +215,7 @@
             <li><p><a href = "http://cs231n.stanford.edu/schedule.html">CS231n</a> : </p></li>
             <li><p><a href = "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">CS224n</a> : </p></li>
             <li><p><a href = "http://web.stanford.edu/class/cs224w/index.html">CS224W</a> : </p></li>
+            <li><p><a href = "https://rail.eecs.berkeley.edu/deeprlcourse/">CS285</a> : </p></li>
         </ul>
         <li>NewsLetters</li>
         <ul>
