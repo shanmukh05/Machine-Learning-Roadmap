@@ -30,7 +30,7 @@
         </ul>
     </ul>
 </div>
-
+<img src="https://progress-bar.dev/20">
 <div>
     <h2>Machine Learning</h2>
     <ul>
@@ -38,7 +38,7 @@
         <li>Books</li>
     </ul>
 </div>
-
+<img src="https://progress-bar.dev/40">
 <div>
     <h2>Deep Learning</h2>
     <ul>
@@ -46,7 +46,7 @@
         <li>Books</li>
     </ul>
 </div>
-
+<img src="https://progress-bar.dev/60">
 <div>
   <h2>Frameworks/Libraries</h2>
   <ul>
@@ -75,18 +75,18 @@
       <li>Matplotlib</li>
       <li>Seaborn</li>
     </ul>
-      <li>Machine Learning</li>
-      <ul>
-        <li>Scikit-Learn</li>
-      </ul>
-      <li>Deep Learning</li>
-      <ul>
+    <li>Machine Learning</li>
+    <ul>
+      <li>Scikit-Learn</li>
+    </ul>
+    <li>Deep Learning</li>
+    <ul>
         <li>FastAI</li>
         <li>PyTorch</li>
         <li>TensorFlow</li>
-     </ul>
+    </ul>
 </div>
-
+<img src="https://progress-bar.dev/80">
 <div>
     <h2>What next ?</h2>
     <ul>
@@ -100,8 +100,7 @@
         </ul>
     </ul>
 </div>
-
-
+<img src="https://progress-bar.dev/95">
 <div>
     <h2>Other Resources</h2>
     <ul>
