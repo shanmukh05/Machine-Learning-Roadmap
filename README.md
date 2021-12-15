@@ -212,10 +212,10 @@
         </ul>
         <li>University Lectures</li>
         <ul>
-            <li><p><a href = "http://cs231n.stanford.edu/schedule.html">CS231n</a> : </p></li>
-            <li><p><a href = "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">CS224n</a> : </p></li>
-            <li><p><a href = "http://web.stanford.edu/class/cs224w/index.html">CS224W</a> : </p></li>
-            <li><p><a href = "https://rail.eecs.berkeley.edu/deeprlcourse/">CS285</a> : </p></li>
+            <li><p><a href = "http://cs231n.stanford.edu/schedule.html">CS231n</a> : Computer Vision</p></li>
+            <li><p><a href = "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">CS224n</a> : Natural Language Processing</p></li>
+            <li><p><a href = "http://web.stanford.edu/class/cs224w/index.html">CS224W</a> : Machine Learning with Graphs</p></li>
+            <li><p><a href = "https://rail.eecs.berkeley.edu/deeprlcourse/">CS285</a> : Reinforcement Learning</p></li>
         </ul>
         <li>NewsLetters</li>
         <ul>
