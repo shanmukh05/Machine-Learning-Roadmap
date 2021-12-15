@@ -1,7 +1,5 @@
-<center>
-    <h1>Machine-Learning-Roadmap</h1>
-    <h2>A roadmap for getting started with Machine Learning</h2>
-</center>
+<h1>Machine-Learning-Roadmap</h1>
+<h2>A roadmap for getting started with Machine Learning</h2>
 
 <div>
     <h2>Introduction</h2>
@@ -16,15 +14,36 @@
         <li>Mathematics</li>
         <ul>
             <li>Linear Algebra</li>
+            <details>
+                <summary>Details</summary>
+            </details>
             <li>Matrix Algebra</li>
+            <details>
+                <summary>Details</summary>
+            </details>
             <li>Probability and Statistics</li>
+            <details>
+                <summary>Details</summary>
+            </details>
             <li>Calculus</li>
+            <details>
+                <summary>Details</summary>
+            </details>
         </ul>
         <li>Programming Fundamentals</li>
+        <details>
+                <summary>Details</summary>
+        </details>
         <ul>
             <li>Data Structures and Algorithms</li>
+            <details>
+                <summary>Details</summary>
+            </details>
         </ul>
         <li>Programming Language</li>
+        <details>
+                <summary>Details</summary>
+        </details>
         <ul>
             <li>Python</li>
         </ul>
@@ -53,37 +72,73 @@
     <li>Working with Arrays</li>
     <ul>
       <li>NumPy</li>
+      <details>
+          <summary>Details</summary>
+      </details>
     </ul>
     <li>Data Preprocessing</li>
     <ul>
       <li>Tabular data</li>
     <ul>
       <li>Pandas</li>
+      <details>
+          <summary>Details</summary>
+      </details>
     </ul>
     <li>Image data</li>
     <ul>
       <li>OpenCV</li>
+      <details>
+          <summary>Details</summary>
+      </details>
       <li>Pillow</li>
+      <details>
+          <summary>Details</summary>
+      </details>
     </ul>
       <li>Text data</li>
     <ul>
       <li>NLTK</li>
+      <details>
+          <summary>Details</summary>
+      </details>
       <li>SpaCy</li>
+      <details>
+          <summary>Details</summary>
+      </details>
     </ul>
     <li>Data Visualization</li>
     <ul>
       <li>Matplotlib</li>
+      <details>
+          <summary>Details</summary>
+      </details>
       <li>Seaborn</li>
+      <details>
+          <summary>Details</summary>
+      </details>
     </ul>
     <li>Machine Learning</li>
     <ul>
       <li>Scikit-Learn</li>
+      <details>
+          <summary>Details</summary>
+      </details>
     </ul>
     <li>Deep Learning</li>
     <ul>
         <li>FastAI</li>
+        <details>
+          <summary>Details</summary>
+        </details>
         <li>PyTorch</li>
+        <details>
+          <summary>Details</summary>
+        </details>
         <li>TensorFlow</li>
+        <details>
+          <summary>Details</summary>
+        </details>
     </ul>
 </div>
 <img src="https://progress-bar.dev/80">
@@ -93,10 +148,16 @@
         <li>Competitions</li>
         <ul>
             <li>Kaggle</li>
+            <details>
+                <summary>Details</summary>
+            </details>
         </ul>
         <li>Research</li>
         <ul>
             <li>Papers with Code</li>
+            <details>
+                <summary>Details</summary>
+            </details>
         </ul>
     </ul>
 </div>
