@@ -57,6 +57,9 @@
     <h2>Machine Learning</h2>
     <ul>
         <li>Courses</li>
+        <details>
+          <summary>Details</summary>
+        </details>
         <li>Books</li>
     </ul>
 </div>
@@ -65,6 +68,9 @@
     <h2>Deep Learning</h2>
     <ul>
         <li>Courses</li>
+        <details>
+          <summary>Details</summary>
+        </details>
         <li>Books</li>
     </ul>
 </div>
@@ -72,14 +78,17 @@
 <div>
   <h2>Frameworks/Libraries</h2>
   <ul>
-    <li>Working with Arrays</li>
+    <details>
+        <summary>Working with Arrays</summary>
     <ul>
       <li>NumPy</li>
       <details>
           <summary>Details</summary>
       </details>
     </ul>
-    <li>Data Preprocessing</li>
+    </details>
+    <details>
+        <summary>Data Preprocessing</summary>
     <ul>
       <li>Tabular data</li>
     <ul>
@@ -110,7 +119,10 @@
           <summary>Details</summary>
       </details>
     </ul>
-    <li>Data Visualization</li>
+    </ul>
+        </details>
+    <details>
+        <summary>Data Visualization</summary>
     <ul>
       <li>Matplotlib</li>
       <details>
@@ -121,14 +133,18 @@
           <summary>Details</summary>
       </details>
     </ul>
-    <li>Machine Learning</li>
+        </details>
+    <details>
+        <summary>Machine Learning</summary>
     <ul>
       <li>Scikit-Learn</li>
       <details>
           <summary>Details</summary>
       </details>
     </ul>
-    <li>Deep Learning</li>
+        </details>
+    <details>
+        <summary>Deep Learning</summary>
     <ul>
         <li>FastAI</li>
         <details>
@@ -143,6 +159,7 @@
           <summary>Details</summary>
         </details>
     </ul>
+        </details>
 </div>
 <img src="https://progress-bar.dev/80">
 <div>
@@ -170,39 +187,39 @@
     <ul>
         <li>YouTube Channels</li>
         <ul>
-            <li><p><a href = "">KrishNaik</a> : </p></li>
-            <li><p><a href = "">StatQuest with Josh Starmer</a> : </p></li>
-            <li><p><a href = "">3Blue1Brown</a> : </p></li>
-            <li><p><a href = "">DeepLearningAI</a> : </p></li>
-            <li><p><a href = "">Lex Fridman</a> : </p></li>
-            <li><p><a href = "">Yannic Kilcher</a> : </p></li>
-            <li><p><a href = "">Daniel Bourke</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/user/krishnaik06">KrishNaik</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/c/joshstarmer">StatQuest with Josh Starmer</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/c/3blue1brown">3Blue1Brown</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/c/Deeplearningai">DeepLearningAI</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/c/lexfridman">Lex Fridman</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/c/YannicKilcher">Yannic Kilcher</a> : </p></li>
+            <li><p><a href = "https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ">Daniel Bourke</a> : </p></li>
         </ul>
         <li>Blogs</li>
         <ul>
-            <li><p><a href = "">AI Summer</a> : </p></li>
-            <li><p><a href = "">Distil</a> : </p></li>
-            <li><p><a href = "">Google AI</a> : </p></li>
-            <li><p><a href = "">Meta AI</a> : </p></li>
-            <li><p><a href = "">Open AI</a> : </p></li>
-            <li><p><a href = "">AWS Machine Learning</a> : </p></li>
+            <li><p><a href = "https://theaisummer.com/">AI Summer</a> : </p></li>
+            <li><p><a href = "https://distill.pub/">Distil</a> : </p></li>
+            <li><p><a href = "https://ai.googleblog.com/">Google AI</a> : </p></li>
+            <li><p><a href = "https://ai.facebook.com/blog/">Meta AI</a> : </p></li>
+            <li><p><a href = "https://openai.com/blog/">Open AI</a> : </p></li>
+            <li><p><a href = "https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</a> : </p></li>
         </ul>
         <li>Research Papers</li>
         <ul>
-            <li><p><a href = "">arXiv</a> : </p></li>
-            <li><p><a href = "">arXiv Sanity</a> : </p></li>
-            <li><p><a href = "">SciHub</a> : </p></li>
+            <li><p><a href = "https://arxiv.org/">arXiv</a> : </p></li>
+            <li><p><a href = "http://www.arxiv-sanity.com/">arXiv Sanity</a> : </p></li>
+            <li><p><a href = "https://sci-hub.se/">SciHub</a> : </p></li>
         </ul>
         <li>University Lectures</li>
         <ul>
-            <li><p><a href = "">CS231n</a> : </p></li>
-            <li><p><a href = "">CS224n</a> : </p></li>
-            <li><p><a href = "">CS224W</a> : </p></li>
+            <li><p><a href = "http://cs231n.stanford.edu/schedule.html">CS231n</a> : </p></li>
+            <li><p><a href = "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/">CS224n</a> : </p></li>
+            <li><p><a href = "http://web.stanford.edu/class/cs224w/index.html">CS224W</a> : </p></li>
         </ul>
         <li>NewsLetters</li>
         <ul>
-            <li><p><a href = "">DeepLearning.AI</a> : </p></li>
-            <li><p><a href = "">What's AI</a> : </p></li>
+            <li><p><a href = "https://read.deeplearning.ai/the-batch/">DeepLearning.AI</a> : </p></li>
+            <li><p><a href = "https://www.louisbouchard.ai/newsletter/">What's AI</a> : </p></li>
         </ul>
     </ul>
 </div>
