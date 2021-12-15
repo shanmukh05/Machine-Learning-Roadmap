@@ -46,6 +46,9 @@
         </details>
         <ul>
             <li>Python</li>
+            <details>
+                <summary>Details</summary>
+            </details>
         </ul>
     </ul>
 </div>
