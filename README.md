@@ -58,15 +58,10 @@
         </ul>
     </ul>
 </div>
-
-
 <div><img src="https://progress-bar.dev/20"></div>
-
-
 <div>
     <h2>Machine Learning</h2>
     <ul>
-        Any one of the below courses is enough.
         <li>Courses</li>
         <ul>
             <li><a href= "https://www.coursera.org/learn/machine-learning">Machine Learning by Andrew Ng</a> : Coursera.</li>
@@ -80,15 +75,10 @@
         </ul>
     </ul>
 </div>
-
-
 <div><img src="https://progress-bar.dev/40"></div>
-
-
 <div>
     <h2>Deep Learning</h2>
     <ul>
-        Any one of the below courses is enough.
         <li>Courses</li>
         <ul>
             <li><a href= "https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
@@ -103,11 +93,7 @@
         </ul>
     </ul>
 </div>
-
-
 <div><img src="https://progress-bar.dev/60"></div>
-
-
 <div>
   <h2>Frameworks/Libraries</h2>
     <h3>"No tutorial/course is better than Documentation :)"</h3>
@@ -115,7 +101,7 @@
   <ul>
     <details>
         <summary>Working with Arrays</summary>
-    <ul>
+        <ul>
         <li><a href = "https://numpy.org/">NumPy</a></li>
       <details>
           <summary>Details</summary>
@@ -200,7 +186,7 @@
     </details>
     <details>
         <summary>Deep Learning</summary>
-    <ul>
+        <ul>
         <li><a href = "https://www.fast.ai/">fast.ai</a></li>
         <details>
           <summary>Details</summary>
@@ -221,10 +207,7 @@
         </details>
     </ul>
 </div> 
-      
-<div><img src="https://progress-bar.dev/80"></div>  
-      
-      
+<div><img src="https://progress-bar.dev/80"></div>     
 <div>
     <h2>What next ?</h2>
     <ul>
@@ -248,12 +231,8 @@
             </details>
         </ul>
     </ul>
-</div>
-      
-      
-<div><img src="https://progress-bar.dev/95"></div>
-      
-      
+</div>     
+<div><img src="https://progress-bar.dev/95"></div>    
 <div>
     <h2>Other Resources</h2>
     <ul>
