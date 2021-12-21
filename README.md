@@ -138,13 +138,18 @@
     <details>
         <summary>Data Visualization</summary>
     <ul>
-      <li>Matplotlib</li>
+        <li><a href="https://matplotlib.org/stable/index.html">Matplotlib</a></li>
       <details>
           <summary>Details</summary>
+          <p>Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.</p>
+          <a href = "https://matplotlib.org/stable/tutorials/index"> Refer to official tutorials for more details and implementation.</a>
       </details>
-      <li>Seaborn</li>
+        <li><a href= "https://seaborn.pydata.org/">Seaborn</a></li>
       <details>
           <summary>Details</summary>
+          <p>Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</p>
+          <a href = "https://seaborn.pydata.org/tutorial.html"> Refer to official tutorials for more details and implementation.</a>
+          <a href = "https://seaborn.pydata.org/examples/index.html"> Refer to gallery to knoe about various types of plots present in seaborn.</a>
       </details>
     </ul>
         </details>
@@ -166,19 +171,19 @@
         <li><a href = "https://www.fast.ai/">fast.ai</a></li>
         <details>
           <summary>Details</summary>
-            <p></p>
+            <p>fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. Check <a href="https://docs.fast.ai/#About-fastai">About page</a> for more information.</p>
             <a href = "https://docs.fast.ai/tutorial.html"> Refer to official tutorials for more details and implementation.</a>
         </details>
         <li><a href="https://pytorch.org/">PyTorch</a></li>
         <details>
           <summary>Details</summary>
-          <p></p>
+            <p>PyTorch is a Deep Learning framework developed by <code>Meta</code> that enables fast, flexible experimentation and efficient production through a user-friendly front-end, distributed training, and ecosystem of tools and libraries.</p>
           <a href = "https://pytorch.org/tutorials/"> Refer to official tutorials for more details and implementation.</a>
         </details>
         <li><a href="https://www.tensorflow.org/">TensorFlow</a></li>
         <details>
           <summary>Details</summary>
-            <p></p>
+            <p>TensorFlow is a Deep Learning framework developed by <code>Google</code>. It is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. </p>
             <a href = "https://www.tensorflow.org/tutorials"> Refer to official tutorials for more details and implementation.</a>
         </details>
     </ul>
