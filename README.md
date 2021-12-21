@@ -16,38 +16,44 @@
             <li>Linear Algebra</li>
             <details>
                 <summary>Details</summary>
+                <p></p>
+                <p><a href = "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">18.06 Linear Algebra</a> course by MIT is the best course to learn basics of Linear ALgebra</p>
             </details>
             <li>Matrix Algebra</li>
+            <p></p>
+            <p><a href = "https://www.khanacademy.org/math/algebra-home/alg-matrices">Matrices</a> course by Khan Academy is the best course to learn basics of Linear ALgebra</p>
             <details>
                 <summary>Details</summary>
             </details>
             <li>Probability and Statistics</li>
             <details>
                 <summary>Details</summary>
+                <p></p>
+                <p><a href = "https://www.khanacademy.org/math/statistics-probability">Statistics and Probability</a> course by Khan Academy is best course available.</p>
             </details>
             <li>Calculus</li>
             <details>
                 <summary>Details</summary>
+                <p></p>
+                <p><a href="https://www.khanacademy.org/math/differential-calculus">Differential Calculus</a> is the best course to learn basics of Differential Calculus.</p>
             </details>
         </ul>
         <li>Programming Fundamentals</li>
-        <details>
-                <summary>Details</summary>
-        </details>
         <ul>
             <li>Data Structures and Algorithms</li>
             <details>
                 <summary>Details</summary>
+                <p></p>
+                <p><a href= "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/">6.006 Intoduction to Algorithms</a> is the course by MIT to learn basics of Data Structures and Algorithms.</p>
             </details>
         </ul>
         <li>Programming Language</li>
-        <details>
-                <summary>Details</summary>
-        </details>
         <ul>
             <li>Python</li>
             <details>
                 <summary>Details</summary>
+                <p></p>
+                <p><a href= "https://www.w3schools.com/python/">Python tutorial</a> is best place to learn basic syntax of Python.</p>
             </details>
         </ul>
     </ul>
