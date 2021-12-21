@@ -258,6 +258,7 @@
             <li><p><a href = "https://openai.com/blog/">Open AI</a></p></li>
             <li><p><a href = "https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</a></p></li>
             <li><p><a href = "https://thehackweekly.com/blog/">Hack Weekly</a></p></li>
+            <li><p><a href = "https://www.deepwizai.com/">DeepwizAI</a></p></li>
         </ul>
         <li>Research Papers</li>
         <ul>
