@@ -1,5 +1,5 @@
 <h1>Machine-Learning-Roadmap</h1>
-<h2>A roadmap for getting started with Machine Learning</h2>
+<h3>A roadmap for getting started with Machine Learning</h3>
 
 <div>
     <h2>Introduction</h2>
