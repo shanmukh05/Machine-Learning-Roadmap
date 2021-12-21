@@ -206,6 +206,7 @@
             <a href = "https://www.tensorflow.org/tutorials"> Refer to official tutorials for more details and implementation.</a>
         </details>
     </ul>
+      </details>
 </div> 
 <div><img src="https://progress-bar.dev/80"></div>     
 <div>
