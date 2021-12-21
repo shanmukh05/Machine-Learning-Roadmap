@@ -185,7 +185,7 @@
           <p> <a href=  "https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn">Intro to ML with Scikit-Learn</a> and <a href = "https://courses.dataschool.io/scikit-learn-tips">50 scikit-learn tips</a> are best freely available courses provided by <code>Data School</code> to learn Scikit-Learn</p>
       </details>
     </ul>
-        </details>
+    </details>
     <details>
         <summary>Deep Learning</summary>
     <ul>
@@ -208,6 +208,7 @@
             <a href = "https://www.tensorflow.org/tutorials"> Refer to official tutorials for more details and implementation.</a>
         </details>
     </ul>
+    </details>
 </div> 
 <div><img src="https://progress-bar.dev/80"></div>  
 <div>
