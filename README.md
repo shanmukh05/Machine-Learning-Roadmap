@@ -4,7 +4,7 @@
 <div>
     <h2>Introduction</h2>
     <p>
-        This is a roadmap for getting started with Machine Learning.It is a collection of resources and tutorials that I have found useful.I hope that it will be useful to you.
+        This is a roadmap for getting started with Machine Learning. It is a collection of resources and tutorials that I have found useful. I hope that it will be useful to you.
     </p>
 </div>
 
@@ -62,15 +62,17 @@
 <div>
     <h2>Machine Learning</h2>
     <ul>
+        Any one of the below courses is enough.
         <li>Courses</li>
         <ul>
-            <li><a href= ""></a></li>
-            <li><a href= ""></a></li>
+            <li><a href= "https://www.coursera.org/learn/machine-learning">Machine Learning by Andrew Ng</a> : Coursera.</li>
+            <li><a href= "https://www.udemy.com/course/machinelearning/">Machine Learning A-Z</a> : Udemy.</li>
         </ul>
         <li>Books</li>
         <ul>
             <li><a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf">Pattern Recognition and Machine Learning</a> by Christopher Bishop</li>
             <li><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a> by Gareth M. James, Daniela Witten, Trevor Hastie and Robert Tibshirani</li>
+            <li><a href="https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
         </ul>
     </ul>
 </div>
@@ -78,10 +80,12 @@
 <div>
     <h2>Deep Learning</h2>
     <ul>
+        Any one of the below courses is enough.
         <li>Courses</li>
         <ul>
-            <li><a href= ""></a></li>
-            <li><a href= ""></a></li>
+            <li><a href= "https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
+            <li><a href= "https://atcold.github.io/pytorch-Deep-Learning/">Deep Learning with PyTorch by Yann LeCun</a> : YouTube</li>
+            <li><a href= "https://course.fast.ai/">Deep Learning with fast.ai by Jeremy Howard</a> : fast.ai</li>
         </ul>
         <li>Books</li>
         <ul>
@@ -94,7 +98,7 @@
 <img src="https://progress-bar.dev/60">
 <div>
   <h2>Frameworks/Libraries</h2>
-    <h3>No tutorial/course is better than Documentation :)</h3>
+    <h3>"No tutorial/course is better than Documentation :)"</h3>
     <p>But I am sharing other resources for some libraries to learn them quickly. Whenever you got stuck at some function or implementation. It is always better to refer <code>documentation</code>/<code>tutorials</code>/<code>code</code> present in official website.</p>
   <ul>
     <details>
@@ -253,6 +257,7 @@
             <li><p><a href = "https://ai.facebook.com/blog/">Meta AI</a></p></li>
             <li><p><a href = "https://openai.com/blog/">Open AI</a></p></li>
             <li><p><a href = "https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</a></p></li>
+            <li><p><a href = "https://thehackweekly.com/blog/">Hack Weekly</a></p></li>
         </ul>
         <li>Research Papers</li>
         <ul>
