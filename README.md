@@ -20,10 +20,10 @@
                 <p><a href = "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">18.06 Linear Algebra</a> course by MIT is the best course to learn basics of Linear ALgebra</p>
             </details>
             <li>Matrix Algebra</li>
-            <p></p>
-            <p><a href = "https://www.khanacademy.org/math/algebra-home/alg-matrices">Matrices</a> course by Khan Academy is the best course to learn basics of Linear ALgebra</p>
             <details>
                 <summary>Details</summary>
+                <p></p>
+                <p><a href = "https://www.khanacademy.org/math/algebra-home/alg-matrices">Matrices</a> course by Khan Academy is the best course to learn basics of Linear ALgebra</p>
             </details>
             <li>Probability and Statistics</li>
             <details>
@@ -63,10 +63,15 @@
     <h2>Machine Learning</h2>
     <ul>
         <li>Courses</li>
-        <details>
-          <summary>Details</summary>
-        </details>
+        <ul>
+            <li><a href= ""></a></li>
+            <li><a href= ""></a></li>
+        </ul>
         <li>Books</li>
+        <ul>
+            <li><a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf">Pattern Recognition and Machine Learning</a> by Christopher Bishop</li>
+            <li><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a> by Gareth M. James, Daniela Witten, Trevor Hastie and Robert Tibshirani</li>
+        </ul>
     </ul>
 </div>
 <img src="https://progress-bar.dev/40">
@@ -74,10 +79,16 @@
     <h2>Deep Learning</h2>
     <ul>
         <li>Courses</li>
-        <details>
-          <summary>Details</summary>
-        </details>
+        <ul>
+            <li><a href= ""></a></li>
+            <li><a href= ""></a></li>
+        </ul>
         <li>Books</li>
+        <ul>
+            <li><a href="https://www.deeplearningbook.org/">Deep Learning</a> by Ian Goodfellow, Yoshua Bengio and Aaron Courville</li>
+            <li><a href="https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf">Deep Learning with Python</a> by François Chollet</li>
+            <li><a href="https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
+        </ul>
     </ul>
 </div>
 <img src="https://progress-bar.dev/60">
