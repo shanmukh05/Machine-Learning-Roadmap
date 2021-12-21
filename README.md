@@ -17,13 +17,13 @@
             <details>
                 <summary>Details</summary>
                 <p></p>
-                <p><a href = "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">18.06 Linear Algebra</a> course by MIT is the best course to learn basics of Linear ALgebra</p>
+                <p><a href = "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">18.06 Linear Algebra</a> course by MIT is the best course to learn basics of Linear Algebra</p>
             </details>
             <li>Matrix Algebra</li>
             <details>
                 <summary>Details</summary>
                 <p></p>
-                <p><a href = "https://www.khanacademy.org/math/algebra-home/alg-matrices">Matrices</a> course by Khan Academy is the best course to learn basics of Linear ALgebra</p>
+                <p><a href = "https://www.khanacademy.org/math/algebra-home/alg-matrices">Matrices</a> course by Khan Academy is the best course to learn basics of Matrix Algebra</p>
             </details>
             <li>Probability and Statistics</li>
             <details>
