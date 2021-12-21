@@ -210,7 +210,7 @@
     </ul>
         </details>
 </div> 
-<img src="https://progress-bar.dev/80">
+    <p><img src="https://progress-bar.dev/80"></p>
 <div>
     <h2>What next ?</h2>
     <ul>
