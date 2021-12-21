@@ -58,7 +58,7 @@
         </ul>
     </ul>
 </div>
-<img src="https://progress-bar.dev/20">
+<div><img src="https://progress-bar.dev/20"></div>
 <div>
     <h2>Machine Learning</h2>
     <ul>
@@ -76,7 +76,7 @@
         </ul>
     </ul>
 </div>
-<img src="https://progress-bar.dev/40">
+<div><img src="https://progress-bar.dev/40"></div>
 <div>
     <h2>Deep Learning</h2>
     <ul>
@@ -95,7 +95,7 @@
         </ul>
     </ul>
 </div>
-<img src="https://progress-bar.dev/60">
+<div><img src="https://progress-bar.dev/60"></div>
 <div>
   <h2>Frameworks/Libraries</h2>
     <h3>"No tutorial/course is better than Documentation :)"</h3>
@@ -210,8 +210,7 @@
     </ul>
         </details>
 </div> 
-<img src="https://progress-bar.dev/80">
-    
+<div><img src="https://progress-bar.dev/80"></div>  
 <div>
     <h2>What next ?</h2>
     <ul>
@@ -236,7 +235,7 @@
         </ul>
     </ul>
 </div>
-<img src="https://progress-bar.dev/95">
+<div><img src="https://progress-bar.dev/95"></div>
 <div>
     <h2>Other Resources</h2>
     <ul>
