@@ -213,25 +213,62 @@
 		<li>YouTube Channels</li>
 		<ul>
 			<li>
-				<p><a href="https://www.youtube.com/user/krishnaik06">KrishNaik</a></p>
+				<p><a href="https://www.youtube.com/user/krishnaik06">KrishNaik</a></p> 
+				<img src = "https://img.shields.io/badge/-Machine%20Learning%20-brightgreen">
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
+				<img src = "https://img.shields.io/badge/-Data%20Science-yellowgreen">
+				<img src = "https://img.shields.io/badge/-Mathematics-yellow">
+				<img src = "https://img.shields.io/badge/-Deployment-orange">
 			</li>
 			<li>
 				<p><a href="https://www.youtube.com/c/joshstarmer">StatQuest with Josh Starmer</a></p>
+				<img src = "https://img.shields.io/badge/-Machine%20Learning%20-brightgreen">
+				<img src = "https://img.shields.io/badge/-Data%20Science-yellowgreen">
+				<img src = "https://img.shields.io/badge/-Mathematics-yellow">
 			</li>
 			<li>
 				<p><a href="https://www.youtube.com/c/3blue1brown">3Blue1Brown</a></p>
+				<img src = "https://img.shields.io/badge/-Mathematics-yellow">
 			</li>
 			<li>
 				<p><a href="https://www.youtube.com/c/Deeplearningai">DeepLearningAI</a></p>
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
 			</li>
 			<li>
 				<p><a href="https://www.youtube.com/c/lexfridman">Lex Fridman</a></p>
+				<img src = "https://img.shields.io/badge/-Podcast-blue">
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
 			</li>
 			<li>
 				<p><a href="https://www.youtube.com/c/YannicKilcher">Yannic Kilcher</a></p>
+				<img src = "https://img.shields.io/badge/-ML%20News-blue">
+				<img src = "https://img.shields.io/badge/-Research%20Papers-lightgrey">
+			</li>
+			<li>
+				<p><a href="https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw">Henry AI Labs</a></p>
+				<img src = "https://img.shields.io/badge/-Research%20Papers-lightgrey">
+			</li>
+			<li>
+				<p><a href="https://www.youtube.com/c/WhatsAI">What's AI</a></p>
+				<img src = "https://img.shields.io/badge/-Research%20Papers-lightgrey">
 			</li>
 			<li>
 				<p><a href="https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ">Daniel Bourke</a></p>
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
+				<img src = "https://img.shields.io/badge/-ML%20News-blue">
+			</li>
+			<li>
+				<p><a href="https://www.youtube.com/c/TensorFlow">TensorFlow</a></p>
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
+				<img src = "https://img.shields.io/badge/-TensorFlow-orange">
+			</li>
+			<li>
+				<p><a href="https://www.youtube.com/user/krishnaik06">deeplizard</a></p> 
+				<img src = "https://img.shields.io/badge/-Machine%20Learning%20-brightgreen">
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
+				<img src = "https://img.shields.io/badge/-Deployment-orange">
+				<img src = "https://img.shields.io/badge/-TensorFlow-orange">
+				<img src = "https://img.shields.io/badge/-PyTorch-red">
 			</li>
 		</ul>
 		<li>Blogs</li>
@@ -263,6 +300,9 @@
 		</ul>
 		<li>Research Papers</li>
 		<ul>
+			<li>
+				<p><a href="https://paperswithcode.com/">Papers with Code</a></p>
+			</li>
 			<li>
 				<p><a href="https://arxiv.org/">arXiv</a></p>
 			</li>
