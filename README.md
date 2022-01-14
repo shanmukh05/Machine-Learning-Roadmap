@@ -1,5 +1,3 @@
-<h1>Machine-Learning-Roadmap</h1>
-<h3>A roadmap for getting started with Machine Learning</h3>
 <div>
 	<h2>Introduction</h2>
 	<p> This is a roadmap for getting started with Machine Learning. It is a collection of resources and tutorials that I have found useful. I hope that it will be useful to you. </p>
