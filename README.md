@@ -3,12 +3,7 @@
 	<code>Hello there. I am Shanmukha Sainath, a 3rd year undergraduate student from department of Electronics and Electrical Communication Engineering department, IIT Kharagpur. I am presently working as an Applied Scientist Intern at Amazon.</code>
 	<h3>Connect with me:</h3>
 	<p>
-	<a href="https://twitter.com/shanmukh764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanmukh764" height="30" width="40" /></a>
-	<a href="https://linkedin.com/in/shanmukha-sainath-1045b2197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmukha-sainath-1045b2197" height="30" width="40" /></a>
-	<a href="https://kaggle.com/shanmukh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanmukh05" height="30" width="40" /></a>
-	<a href="https://fb.com/shanmukhasainath.gunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanmukhasainath.gunda" height="30" width="40" /></a>
-	<a href="https://instagram.com/shanmukh_764_gv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanmukh_764_gv" height="30" width="40" /></a>
-	<a href="https://medium.com/@shanmukh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shanmukh05" height="30" width="40" /></a></p>
+	<a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linktree-1.svg" alt="@shanmukh05" width="200"/></a></p>
 	<h3>Why I made this?</h3>
 	<p>Internet world is huge, so as resources to learn any new things. There are numerous free and paid resources to learn Machine Learning. Having many options in hand confuses and it's difficult to select best one (saying from experience). So, I have collected best resources to get started with Machine Learning and continue career in this field. </p>
 	<blockquote>Feedback and suggestions are welcome :)</blockquote>
