@@ -296,6 +296,9 @@
 				<p><a href="https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</a></p>
 			</li>
 			<li>
+				<p><a href="https://blogs.microsoft.com/ai/">Microsoft AI Blog</a></p>
+			</li>
+			<li>
 				<p><a href="https://thehackweekly.com/blog/">Hack Weekly</a></p>
 			</li>
 			<li>
