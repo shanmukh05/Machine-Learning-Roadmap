@@ -64,7 +64,7 @@
 	<ul>
 		<li>Courses</li>
 		<ul>
-			<li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning by Andrew Ng</a> : Coursera.</li>
+			<li><a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization by Andrew Ng (New Course🆕)</a> : Coursera.</li>
 			<li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z</a> : Udemy.</li>
 		</ul>
 		<li>Books</li>
