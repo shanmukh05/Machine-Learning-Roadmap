@@ -90,6 +90,7 @@
 			<li><a href="https://www.deeplearningbook.org/">Deep Learning</a> by Ian Goodfellow, Yoshua Bengio and Aaron Courville</li>
 			<li><a href="https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf">Deep Learning with Python</a> by François Chollet</li>
 			<li><a href="https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
+			<li><a href="https://d2l.ai/">Dive into Deep Learning</a> by Amazon scientists</li>
 		</ul>
 	</ul>
 </div>
