@@ -197,6 +197,10 @@
 				<p>Kaggle is biggest data sceince community where one can share their work, particpate in competitions, learn from free courses and lot more.</p>
 				<p>To get more out of Kaggle, participate in any competition which is in field of your interest. Competitions are aminly divided into 3 categories <code>Tabular</code>, <code>Computer Vision</code>, <code>NLP</code>. If there are no any active competitions attempt past competitions which interests you. If you got stuck at any point refer publicly avaliable notebooks / post in discussion forum. There are enoromous number of datasets available on Kaggle. You can also download datasets and start your own project</p>
 			</details>
+			<li><a href="https://mlcontests.com/">ML Contests</a></li>
+			<p>This website contains a list of ongoing ML competitions across various platforms</p>
+			<li><a href="https://medium.com/analytics-vidhya/top-25-machine-learning-hackathons-its-here-now-for-anyone-to-move-to-data-science-a93deb2a198a">List of ML hackathon platforms</a></li>
+			<p>This blog written by Vetrivel PS has list of Data Science competition platforms.</p>
 		</ul>
 		<li>Research</li>
 		<ul>
