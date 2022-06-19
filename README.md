@@ -303,6 +303,9 @@
 				<p><a href="https://blogs.microsoft.com/ai/">Microsoft AI Blog</a></p>
 			</li>
 			<li>
+				<p><a href="https://lilianweng.github.io/">Lil'Log</a></p>
+			</li>
+			<li>
 				<p><a href="https://thehackweekly.com/blog/">Hack Weekly</a></p>
 			</li>
 			<li>
@@ -350,6 +353,12 @@
 			<li>
 				<p><a href="https://www.louisbouchard.ai/newsletter/">What's AI</a> </p>
 			</li>
+		</ul>
+		<li>People/Pages to follow</li>
+		<ul>
+			<li>LinkedIn</li>
+			<li>Twitter</li>
+			<li>Medium</li>
 		</ul>
 	</ul>
 </div>
