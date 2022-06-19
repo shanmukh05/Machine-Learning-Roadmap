@@ -361,5 +361,11 @@
 			<li>Twitter</li>
 			<li>Medium</li>
 		</ul>
+		<li>Join these communities</li>
+		<ul>
+			<li>
+				<p><a href="https://ykilcher.com/discord">Yannic Kilcher</a> (Discord)</p>
+			</li>
+		</ul>
 	</ul>
 </div>
