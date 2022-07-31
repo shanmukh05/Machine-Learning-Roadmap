@@ -1,6 +1,6 @@
 <div>
 	<h2>Introduction</h2>
-	<code>Hello there. I am Shanmukha Sainath, a 3rd year undergraduate student from department of Electronics and Electrical Communication Engineering department, IIT Kharagpur. I am presently working as an Machine Learning Intern at KLA Tencor.</code>
+	<code>Hello there. I am Shanmukha Sainath, a 3rd year undergraduate student from department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.</code>
 	<h3>Connect with me:</h3>
 	<p>
 	<a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/551-5516316_linktree-logo-png-transparent-png.png" alt="@shanmukh05" width="200"/></a></p>
