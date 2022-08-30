@@ -279,6 +279,13 @@
 				<img src = "https://img.shields.io/badge/-TensorFlow-orange">
 				<img src = "https://img.shields.io/badge/-PyTorch-red">
 			</li>
+			<li>
+				<p><a href="https://www.youtube.com/c/AladdinPersson">Aladdin Persson</a></p> 
+				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
+				<img src = "https://img.shields.io/badge/-Research%20Papers-lightgrey">
+				<img src = "https://img.shields.io/badge/-PyTorch-red">
+				<img src="https://img.shields.io/badge/-%20paper%20implementations-yellow">
+			</li>
 		</ul>
 		<li>Blogs</li>
 		<ul>
