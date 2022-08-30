@@ -287,7 +287,7 @@
 				<img src="https://img.shields.io/badge/-%20paper%20implementations-yellow">
 			</li>
 			<li>
-				<p><a href="https://www.youtube.com/c/DigitalSreeni/">Digital Sreeni/a></p> 
+				<p><a href="https://www.youtube.com/c/DigitalSreeni/">Digital Sreeni</a></p> 
 				<img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
 				<img src = "https://img.shields.io/badge/-TensorFlow-orange">
 			</li>
