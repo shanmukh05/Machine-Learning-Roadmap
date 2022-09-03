@@ -340,6 +340,18 @@
 				<p><a href="https://sci-hub.se/">SciHub</a></p>
 			</li>
 		</ul>
+		<li>Datasets</li>
+		<ul>
+			<li>
+				<p><a href="https://www.kaggle.com/datasets">Kaggle</a> </p>
+			</li>
+			<li>
+				<p><a href="https://paperswithcode.com/datasets">Papers with Code</a> </p>
+			</li>
+			<li>
+				<p><a href="https://www.openml.org/search?type=data&sort=runs&status=active">Open ML</a> </p>
+			</li>
+		</ul>
 		<li>University Lectures</li>
 		<ul>
 			<li>
