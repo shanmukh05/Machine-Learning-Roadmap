@@ -3,7 +3,7 @@
 	<code>Hello there. I am Shanmukha Sainath, a 4th (final) year undergraduate student from department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.</code>
 	<h3>Connect with me:</h3>
 	<p>
-	<a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/551-5516316_linktree-logo-png-transparent-png.png" alt="@shanmukh05" width="200"/></a></p>
+	<a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://github.com/shanmukh05/Machine-Learning-Roadmap/blob/main/linktree.png" alt="@shanmukh05" width="200"/></a></p>
 	<h3>Why I made this?</h3>
 	<p>Internet world is huge, so as resources to learn any new things. There are numerous free and paid resources to learn Machine Learning. Having many options in hand confuses and it's difficult to select best one (saying from experience). So, I have collected best resources to get started with Machine Learning and continue career in this field. </p>
 	<blockquote>Feedback and suggestions are welcome :)</blockquote>
