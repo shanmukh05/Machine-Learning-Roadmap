@@ -394,7 +394,7 @@
 				<p><a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a> (Slack)</p>
 			</li>
 			<li>
-				<p><a href="https://discord.gg/dNvTQnER"></a> MLSpace: The Machine Learning Community (Abhishek Thakur)(Discord)</p>
+				<p><a href="https://discord.gg/dNvTQnER">MLSpace: The Machine Learning Community (Abhishek Thakur)</a> (Discord)</p>
 			</li>
 		</ul>
 	</ul>
