@@ -390,6 +390,12 @@
 			<li>
 				<p><a href="https://ykilcher.com/discord">Yannic Kilcher</a> (Discord)</p>
 			</li>
+			<li>
+				<p><a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a> (Slack)</p>
+			</li>
+			<li>
+				<p><a href="https://discord.gg/dNvTQnER"></a> MLSpace: The Machine Learning Community (Abhishek Thakur)(Discord)</p>
+			</li>
 		</ul>
 	</ul>
 </div>
