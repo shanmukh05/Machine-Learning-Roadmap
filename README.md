@@ -174,7 +174,7 @@
             <li><a href="https://plotly.com/python/">Plotly</a></li>
             <details>
                <summary>Details</summary>
-               <p>Plotly's Python graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts. 
+               <p>Plotly's Python graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts. </p>
             </details>
          </ul>
       </details>
