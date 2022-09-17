@@ -154,6 +154,10 @@
 				<details>
 					<summary>Details</summary>
 					<p>Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</p> <a href="https://seaborn.pydata.org/tutorial.html"> Refer to official tutorials for more details and implementation.</a> <a href="https://seaborn.pydata.org/examples/index.html"> Refer to gallery to knoe about various types of plots present in seaborn.</a> </details>
+				<li><a href="https://plotly.com/python/">Plotly</a></li>
+				<details>
+					<summary>Details</summary>
+					<p>Plotly's Python graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts. </details>
 			</ul>
 		</details>
 		<details>
