@@ -414,6 +414,12 @@
          <li>Twitter</li>
          <li>Medium</li>
       </ul>
+      <li>Cloud GPUs</li>
+      <ul>
+         <li>
+            <p><a href="https://cloud-gpus.com/">This site has all list of available Cloud GPUs and their pricing</a> </p>
+         </li>
+      </ul>
       <li>Join these communities</li>
       <ul>
          <li>
