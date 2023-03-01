@@ -402,6 +402,9 @@
             <p><a href="https://read.deeplearning.ai/the-batch/">DeepLearning.AI</a> </p>
          </li>
          <li>
+            <p><a href="https://alphasignal.ai/">Alpha Signal: The weekly digest for AI Researchers and Engineers</a> </p>
+         </li>
+         <li>
             <p><a href="https://paperswithcode.com/newsletter">Papers with Code</a> </p>
          </li>
          <li>
