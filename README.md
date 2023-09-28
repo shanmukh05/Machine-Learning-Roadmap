@@ -1,6 +1,6 @@
 <div>
    <h2>Introduction</h2>
-   <code>Hello there. I am Shanmukha Sainath, a 4th (final) year undergraduate student from department of Electronics and Electrical Communication Engineering department, IIT Kharagpur. I will be joining KLA Corporation as an Associate Analyst in 2023.</code>
+   <code>Hello there. I am Shanmukha Sainath, working as AI Engineer at KLA Corporation. I have done my Bachelors from Department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.</code>
    <h3>Connect with me:</h3>
    <p>
       <a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://github.com/shanmukh05/Machine-Learning-Roadmap/blob/main/linktree.png" alt="@shanmukh05" width="200"/></a>
