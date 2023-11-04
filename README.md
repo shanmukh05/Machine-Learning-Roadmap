@@ -83,7 +83,7 @@
       <li>Courses</li>
       <ul>
          <li><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
-         <li><a href="https://atcold.github.io/pytorch-Deep-Learning/">Deep Learning with PyTorch by Yann LeCun</a> : YouTube</li>
+         <li><a href="https://atcold.github.io/NYU-DLSP20/">Deep Learning with PyTorch by Yann LeCun</a> : YouTube</li>
          <li><a href="https://course.fast.ai/">Deep Learning with fast.ai by Jeremy Howard</a> : fast.ai</li>
       </ul>
       <li>Books</li>
