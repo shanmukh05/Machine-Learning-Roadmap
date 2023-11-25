@@ -251,6 +251,12 @@
       <li>YouTube Channels</li>
       <ul>
          <li>
+            <p><a href="https://www.youtube.com/@AndrejKarpathy">Andrej Karpathy</a></p>
+            <img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
+            <img src="https://img.shields.io/badge/NLP-brown">
+            <img src = "https://img.shields.io/badge/-PyTorch-red">
+         </li>
+         <li>
             <p><a href="https://www.youtube.com/user/krishnaik06">KrishNaik</a></p>
             <img src = "https://img.shields.io/badge/-Machine%20Learning%20-brightgreen">
             <img src = "https://img.shields.io/badge/-Deep%20Learning%20-green">
