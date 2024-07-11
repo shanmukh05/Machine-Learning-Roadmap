@@ -401,6 +401,9 @@
          <li>
             <p><a href="https://rail.eecs.berkeley.edu/deeprlcourse/">CS285</a> : Reinforcement Learning</p>
          </li>
+         <li>
+            <p><a href="https://github.com/mlabonne/llm-course">llm-course</a> : Compiled Resources to learn about LLMs</p>
+         </li>
       </ul>
       <li>NewsLetters</li>
       <ul>
