@@ -445,4 +445,27 @@
          </li>
       </ul>
    </ul>
+   <details>
+         <summary>Advanced resources</summary>
+         <ul>
+            <li>
+               <p><a href="https://wandb.ai/site">Weights & Biases</a>: Train and fine-tune models, manage models from experimentation to production</p>
+            </li>
+            <li>
+               <p><a href="https://huggingface.co/">Hugging Face</a>: The platform where the machine learning community collaborates on models, datasets, and applications.</p>
+            </li>
+            <li>
+               <p><a href="https://lightning.ai/docs/pytorch/stable/">PyTorch Lightning</a>: PyTorch Lightning is the deep learning framework for professional AI researchers and machine learning engineers who need maximal flexibility without sacrificing performance at scale.</p>
+            </li>
+            <li>
+               <p>AutoMl Libraries: <a href="https://pycaret.org/">PyCaret</a>, <a href="https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html">H2o AutoML</a>, <a href="https://autokeras.com/">AutoKeras</a>, <a href="https://microsoft.github.io/FLAML/">FLAML</a></p>
+            </li>
+            <li>
+               <p>Deployment [Beginner]: <a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a>, <a href="https://streamlit.io/">Streamlit</a></p>
+            </li>
+            <li>
+               <p><a href="https://www.langchain.com/">LangChain</a>: LangChain is a framework designed to simplify the creation of applications using large language models.</p>
+            </li>
+      </ul>
+   </details>
 </div>
