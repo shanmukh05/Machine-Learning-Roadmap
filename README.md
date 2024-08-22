@@ -419,6 +419,9 @@
          <li>
             <p><a href="https://www.louisbouchard.ai/newsletter/">What's AI</a> </p>
          </li>
+         <li>
+            <p><a href="https://www.linkedin.com/newsletters/top-ml-papers-of-the-week-7020865424875474944/">DAIR.AI's Top ML papers of the week</a></p>
+         </li>
       </ul>
       <li>People/Pages to follow</li>
       <ul>
