@@ -359,6 +359,9 @@
          <li>
             <p><a href="https://www.deepwizai.com/">DeepwizAI</a></p>
          </li>
+         <li>
+            <p><a href="https://aman.ai/">aman.ai</a></p>
+         </li>
       </ul>
       <li>Research Papers</li>
       <ul>
