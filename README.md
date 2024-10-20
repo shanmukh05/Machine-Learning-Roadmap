@@ -475,3 +475,6 @@
       </ul>
    </details>
 </div>
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=shanmukh05/Machine-Learning-Roadmap&type=Date)](https://star-history.com/#shanmukh05/Machine-Learning-Roadmap&Date)
