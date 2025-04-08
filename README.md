@@ -453,6 +453,27 @@
             <p><a href="https://discord.gg/dNvTQnER">MLSpace: The Machine Learning Community (Abhishek Thakur)</a> (Discord)</p>
          </li>
       </ul>
+      <li>Visualization Tools</li>
+      <ul>
+         <li>
+            <p><a href="https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network">Visualizing Neural Network Architecture</a></p>
+         </li>
+         <li>
+            <p><a href="https://playground.tensorflow.org/">Tensorflow Playground</a> : A website to play with FNN</p>
+         </li>
+         <li>
+            <p><a href="https://adamharley.com/nn_vis/cnn/3d.html">3D Visualization of CNN trained on MNIST digits</a></p>
+         </li>
+         <li>
+            <p><a href="https://poloclub.github.io/cnn-explainer/">CNN Explainer</a></p>
+         </li>
+         <li>
+            <p><a href="https://bbycroft.net/llm">LLM Visualization</a></p>
+         </li>
+         <li>
+            <p><a href="https://github.com/helblazer811/ManimML">ManimML</a> : Animations and Visualizations of ML concepts</p>
+         </li>
+      </ul>
    </ul>
    <details>
          <summary>Advanced resources</summary>
