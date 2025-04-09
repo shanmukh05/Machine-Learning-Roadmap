@@ -462,7 +462,7 @@
             <p><a href="https://playground.tensorflow.org/">Tensorflow Playground</a> : A website to play with FNN</p>
          </li>
          <li>
-            <p><a href="https://adamharley.com/nn_vis/cnn/3d.html">3D Visualization of CNN trained on MNIST digits</a></p>
+            <p><a href="https://adamharley.com/nn_vis/">Interactive Nod Link visualizations for MLPs and CNNs</a></p>
          </li>
          <li>
             <p><a href="https://poloclub.github.io/cnn-explainer/">CNN Explainer</a></p>
