@@ -496,6 +496,9 @@
             <li>
                <p><a href="https://www.langchain.com/">LangChain</a>: LangChain is a framework designed to simplify the creation of applications using large language models.</p>
             </li>
+            <li>
+               <p><a href="https://unsloth.ai/">Unsloth</a>: Library for LLM Finetuning.</p>
+            </li>
       </ul>
    </details>
 </div>
