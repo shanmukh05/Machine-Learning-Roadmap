@@ -473,6 +473,9 @@
          <li>
             <p><a href="https://github.com/helblazer811/ManimML">ManimML</a> : Animations and Visualizations of ML concepts</p>
          </li>
+         <li>
+            <p><a href="https://erdem.pl/">Blog by Kemal Erdem</a> : Interactive Visualizations of DL algos</p>
+         </li>
       </ul>
    </ul>
    <details>
