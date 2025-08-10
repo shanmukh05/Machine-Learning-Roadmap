@@ -476,6 +476,9 @@
          <li>
             <p><a href="https://erdem.pl/">Blog by Kemal Erdem</a> : Interactive Visualizations of DL algos</p>
          </li>
+         <li>
+            <p><a href="https://apple.github.io/embedding-atlas/">Embedding Atlas</a> : Interactive Visualization tool for textual and embedding data from Apple</p>
+         </li>
       </ul>
    </ul>
    <details>
