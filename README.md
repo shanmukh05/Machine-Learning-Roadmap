@@ -83,6 +83,7 @@
       <li>Courses</li>
       <ul>
          <li><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
+         <li><a href="https://www.deeplearning.ai/courses/pytorch-for-deep-learning-professional-certificate/">PyTorch for Deep Learning Professional Certificate</a> : DeepLearning.AI</li>
          <li><a href="https://atcold.github.io/NYU-DLSP20/">Deep Learning with PyTorch by Yann LeCun</a> : YouTube</li>
          <li><a href="https://course.fast.ai/">Deep Learning with fast.ai by Jeremy Howard</a> : fast.ai</li>
       </ul>
@@ -91,6 +92,7 @@
          <li><a href="https://www.deeplearningbook.org/">Deep Learning</a> by Ian Goodfellow, Yoshua Bengio and Aaron Courville</li>
          <li><a href="https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf">Deep Learning with Python</a> by François Chollet</li>
          <li><a href="https://amzn.eu/d/4ybZF9x">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
+         <li><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-PyTorch/dp/B0F2SG98Q9">Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems</a> by Aurelien Geron</li>
          <li><a href="https://d2l.ai/">Dive into Deep Learning</a> by Amazon scientists</li>
       </ul>
    </ul>
@@ -478,6 +480,9 @@
          </li>
          <li>
             <p><a href="https://apple.github.io/embedding-atlas/">Embedding Atlas</a> : Interactive Visualization tool for textual and embedding data from Apple</p>
+         </li>
+         <li>
+            <p><a href="https://www.alphaxiv.org/labs/tensor-trace">Fly through Llama</a> : Explore the tensor operations in Llama 8B model in an interactive 3D environment</p>
          </li>
       </ul>
    </ul>
