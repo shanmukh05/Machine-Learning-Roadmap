@@ -433,9 +433,9 @@
       </ul>
       <li>People/Pages to follow</li>
       <ul>
-         <li>LinkedIn</li>
-         <li>Twitter</li>
-         <li>Medium</li>
+         <li>
+            <p><a href="https://github.com/shanmukh05/awesome-tech-twitter-accounts">Awesome list of Twitter handles (made by me)</a></p>
+         </li>
       </ul>
       <li>Cloud GPUs</li>
       <ul>
