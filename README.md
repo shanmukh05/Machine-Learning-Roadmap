@@ -484,6 +484,9 @@
          <li>
             <p><a href="https://www.alphaxiv.org/labs/tensor-trace">Fly through Llama</a> : Explore the tensor operations in Llama 8B model in an interactive 3D environment</p>
          </li>
+         <li>
+            <p><a href="https://github.com/facebookresearch/llm-transparency-tool/">LLM transparency tool</a> : an open-source interactive toolkit for analyzing internal workings of Transformer-based language models.</p>
+         </li>
       </ul>
    </ul>
    <details>
