@@ -458,6 +458,9 @@
       <li>Visualization Tools</li>
       <ul>
          <li>
+            <p><a href="https://seeing-theory.brown.edu/#firstPage">Seeing Theory : A visual intro to probs and stats</a></p>
+         </li>
+         <li>
             <p><a href="https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network">Visualizing Neural Network Architecture</a></p>
          </li>
          <li>
