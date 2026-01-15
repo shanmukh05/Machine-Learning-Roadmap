@@ -493,6 +493,9 @@
          <li>
             <p><a href="https://github.com/facebookresearch/llm-transparency-tool/">LLM transparency tool</a> : an open-source interactive toolkit for analyzing internal workings of Transformer-based language models.</p>
          </li>
+         <li>
+            <p><a href="https://nn-vis.noelith.dev/">MNIST MLP</a> : Visualizing inference of a MLP trained on MNIST digits dataset.</p>
+         </li>
       </ul>
    </ul>
    <details>
