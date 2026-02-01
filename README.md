@@ -496,6 +496,9 @@
          <li>
             <p><a href="https://nn-vis.noelith.dev/">MNIST MLP</a> : Visualizing inference of a MLP trained on MNIST digits dataset.</p>
          </li>
+         <li>
+            <p><a href="https://tiktokenizer.vercel.app/">Tiktokenizer</a> : Check how different tokenizers tokenize text.</p>
+         </li>
       </ul>
    </ul>
    <details>
