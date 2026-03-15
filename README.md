@@ -1,18 +1,47 @@
-<div>
-   <h2>Introduction</h2>
-   <code>Hello there. I am Shanmukha Sainath, working as AI Engineer at KLA Corporation. I have done my Bachelors from Department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.</code>
-   <h3>Connect with me:</h3>
-   <p>
-      <a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://github.com/shanmukh05/Machine-Learning-Roadmap/blob/main/linktree.png" alt="@shanmukh05" width="200"/></a>
-   </p>
-   <h3>Why I made this?</h3>
-   <p>Internet world is huge, so as resources to learn any new things. There are numerous free and paid resources to learn Machine Learning. Having many options in hand confuses and it's difficult to select best one (saying from experience). So, I have collected best resources to get started with Machine Learning and continue career in this field. </p>
-   <blockquote>Feedback and suggestions are welcome :)</blockquote>
+<div align="center">
+  <h1>Machine Learning Roadmap</h1>
+  <p>A curated collection of resources to start and advance your career in Machine Learning.</p>
+
+  [![GitHub stars](https://img.shields.io/github/stars/shanmukh05/Machine-Learning-Roadmap?style=for-the-badge)](https://github.com/shanmukh05/Machine-Learning-Roadmap/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/shanmukh05/Machine-Learning-Roadmap?style=for-the-badge)](https://github.com/shanmukh05/Machine-Learning-Roadmap/network/members)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shanmukh05/)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/shanmukh05)
 </div>
-<div>
-   <h2>Prerequisites</h2>
-   <ul>
-      <li>Mathematics</li>
+
+---
+
+> ### 📢 Updates (New Projects)
+> - **[ArxiViz](https://www.arxiviz.com/)**: An interactive platform that helps users understand state-of-the-art neural network architectures. It connects the gap between research papers and practical implementation.
+> - **[Tensor Writes](https://www.tensorwrites.com/)**: Documenting my journey as a Machine Learning Engineer, sharing insights from experiments, readings, and projects.
+
+---
+
+## 📖 Table of Contents
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Frameworks & Libraries](#frameworks--libraries)
+- [What's Next?](#what-next-)
+- [Other Resources](#other-resources)
+- [Star History](#star-history)
+
+---
+
+## Introduction
+`Hello there. I am Shanmukha Sainath, working as AI Engineer at KLA Corporation. I have done my Bachelors from Department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.`
+
+### Why I made this?
+Internet world is huge, so as resources to learn any new things. There are numerous free and paid resources to learn Machine Learning. Having many options in hand confuses and it's difficult to select best one (saying from experience). So, I have collected best resources to get started with Machine Learning and continue career in this field.
+
+**Feedback and suggestions are welcome!**
+
+---
+
+## Prerequisites
+
+<ul>
+   <li>Mathematics</li>
       <ul>
          <li>Linear Algebra</li>
          <details>
@@ -57,13 +86,16 @@
             <p><a href="https://www.w3schools.com/python/">Python tutorial</a> is best place to learn basic syntax of Python.</p>
          </details>
       </ul>
-   </ul>
-</div>
-<div><img src="https://geps.dev/progress/20"></div>
-<div>
-   <h2>Machine Learning</h2>
-   <ul>
-      <li>Courses</li>
+</ul>
+
+---
+
+![](https://geps.dev/progress/20)
+
+## Machine Learning
+
+<ul>
+   <li>Courses</li>
       <ul>
          <li><a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization by Andrew Ng (New Course🆕)</a> : Coursera.</li>
          <li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z</a> : Udemy.</li>
@@ -75,12 +107,15 @@
          <li><a href="https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
       </ul>
    </ul>
-</div>
-<div><img src="https://geps.dev/progress/40"></div>
-<div>
-   <h2>Deep Learning</h2>
-   <ul>
-      <li>Courses</li>
+
+---
+
+![](https://geps.dev/progress/40)
+
+## Deep Learning
+
+<ul>
+   <li>Courses</li>
       <ul>
          <li><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
          <li><a href="https://www.deeplearning.ai/courses/pytorch-for-deep-learning-professional-certificate/">PyTorch for Deep Learning Professional Certificate</a> : DeepLearning.AI</li>
@@ -96,13 +131,18 @@
          <li><a href="https://d2l.ai/">Dive into Deep Learning</a> by Amazon scientists</li>
       </ul>
    </ul>
-</div>
-<div><img src="https://geps.dev/progress/60"></div>
-<div>
-   <h2>Frameworks/Libraries</h2>
-   <h3>"No tutorial/course is better than Documentation :)"</h3>
-   <p>But I am sharing other resources for some libraries to learn them quickly. Whenever you got stuck at some function or implementation. It is always better to refer <code>documentation</code>/<code>tutorials</code>/<code>code</code> present in official website.</p>
-   <ul>
+
+---
+
+![](https://geps.dev/progress/60)
+
+## Frameworks & Libraries
+
+> [!NOTE]
+> **No tutorial/course is better than Documentation.**
+> But I am sharing other resources for some libraries to learn them quickly. Whenever you got stuck at some function or implementation. It is always better to refer official documentation.
+
+<ul>
       <details>
          <summary>Working with Arrays</summary>
          <ul>
@@ -216,12 +256,15 @@
          </ul>
       </details>
    </ul>
-</div>
-<div><img src="https://geps.dev/progress/80"></div>
-<div>
-   <h2>What next ?</h2>
-   <ul>
-      <li>Competitions</li>
+
+---
+
+![](https://geps.dev/progress/80)
+
+## What's Next?
+
+<ul>
+   <li>Competitions</li>
       <ul>
          <li><a href="https://www.kaggle.com/">Kaggle</a></li>
          <details>
@@ -245,12 +288,15 @@
          </details>
       </ul>
    </ul>
-</div>
-<div><img src="https://geps.dev/progress/95"></div>
-<div>
-   <h2>Other Resources</h2>
-   <ul>
-      <li>YouTube Channels</li>
+
+---
+
+![](https://geps.dev/progress/95)
+
+## Other Resources
+
+<ul>
+   <li>YouTube Channels</li>
       <ul>
          <li>
             <p><a href="https://www.youtube.com/@AndrejKarpathy">Andrej Karpathy</a></p>
