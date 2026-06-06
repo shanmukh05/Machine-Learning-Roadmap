@@ -410,6 +410,9 @@ Internet world is huge, so as resources to learn any new things. There are numer
          <li>
             <p><a href="https://aman.ai/">aman.ai</a></p>
          </li>
+        <li>
+            <p><a href="https://blog.janestreet.com/">Jane Street Blog</a></p>
+         </li>
       </ul>
       <li>Research Papers</li>
       <ul>
