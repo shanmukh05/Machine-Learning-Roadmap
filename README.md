@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Machine Learning Roadmap</h1>
   <p>A curated collection of resources to start and advance your career in Machine Learning.</p>
-
-  [![GitHub stars](https://img.shields.io/github/stars/shanmukh05/Machine-Learning-Roadmap?style=for-the-badge)](https://github.com/shanmukh05/Machine-Learning-Roadmap/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/shanmukh05/Machine-Learning-Roadmap?style=for-the-badge)](https://github.com/shanmukh05/Machine-Learning-Roadmap/network/members)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shanmukha-sainath-1045b2197/)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/tensorfiend)
 </div>
