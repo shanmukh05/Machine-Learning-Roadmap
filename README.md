@@ -268,7 +268,7 @@ Internet world is huge, so as resources to learn any new things. There are numer
          <li><a href="https://www.kaggle.com/">Kaggle</a></li>
          <details>
             <summary>Details</summary>
-            <p>Kaggle is biggest data sceince community where one can share their work, particpate in competitions, learn from free courses and lot more.</p>
+            <p>Kaggle is biggest data science community where one can share their work, particpate in competitions, learn from free courses and lot more.</p>
             <p>To get more out of Kaggle, participate in any competition which is in field of your interest. Competitions are aminly divided into 3 categories <code>Tabular</code>, <code>Computer Vision</code>, <code>NLP</code>. If there are no any active competitions attempt past competitions which interests you. If you got stuck at any point refer publicly avaliable notebooks / post in discussion forum. There are enoromous number of datasets available on Kaggle. You can also download datasets and start your own project</p>
          </details>
          <li><a href="https://mlcontests.com/">ML Contests</a></li>
