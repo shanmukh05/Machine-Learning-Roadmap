@@ -578,4 +578,4 @@ Internet world is huge, so as resources to learn any new things. There are numer
 </div>
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=shanmukh05/Machine-Learning-Roadmap&type=Date)](https://star-history.com/#shanmukh05/Machine-Learning-Roadmap&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=shanmukh05/Machine-Learning-Roadmap&type=Date)](https://star-history.dera.page/#shanmukh05/Machine-Learning-Roadmap&Date)
