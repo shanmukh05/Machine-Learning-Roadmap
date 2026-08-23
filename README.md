@@ -9,8 +9,8 @@
 ---
 
 > ### 📢 Updates (New Projects)
+> - **[trisynapse-memory](https://github.com/shanmukh05/trisynapse-memory)**: Local-first memory for AI agents. Store verifiable traces, recall meaning, and answer with citations.
 > - **[Trisynapse](https://www.trisynapse.com/)**: Trisynapse is a local-first, BYOK AI research workspace. Turn scattered papers, PDFs, bookmarks & videos into a private digital brain. The app auto-summarizes, maps concept graphs, and compiles sources into markdown wikis. Work seamlessly with a built-in split-view Browser, local retrieval Chat, an overlay AI Assistant, and infinite Canvas whiteboards for sketching. 100% offline-first and private: your vault stays encrypted on your machine with no cloud sync or subscriptions.
-> - **[ArxiViz](https://www.arxiviz.com/)**: An interactive platform that helps users understand state-of-the-art neural network architectures. It connects the gap between research papers and practical implementation.
 > - **[Tensor Writes](https://www.tensorwrites.com/)**: Documenting my journey as a Machine Learning Engineer, sharing insights from experiments, readings, and projects.
 
 ---
@@ -572,6 +572,9 @@ Internet world is huge, so as resources to learn any new things. There are numer
             </li>
             <li>
                <p><a href="https://unsloth.ai/">Unsloth</a>: Library for LLM Finetuning.</p>
+            </li>
+           <li>
+               <p><a href="https://learn-inference.com/">Inference Engineering</a>: Serving LLMs at scale.</p>
             </li>
       </ul>
    </details>
