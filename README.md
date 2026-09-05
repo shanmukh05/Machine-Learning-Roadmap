@@ -461,6 +461,9 @@ Internet world is huge, so as resources to learn any new things. There are numer
       <li>NewsLetters</li>
       <ul>
          <li>
+            <p><a href="https://aiweekly.co/">AI Weekly: Discover what AI experts are reading and sharing right now</a></p>
+         </li>
+         <li>
             <p><a href="https://read.deeplearning.ai/the-batch/">DeepLearning.AI</a> </p>
          </li>
          <li>
