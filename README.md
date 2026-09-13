@@ -457,6 +457,9 @@ Internet world is huge, so as resources to learn any new things. There are numer
          <li>
             <p><a href="https://github.com/mlabonne/llm-course">llm-course</a> : Compiled Resources to learn about LLMs</p>
          </li>
+        <li>
+            <p><a href="https://www.cis.upenn.edu/~cis6280/">World Models</a> : Introduces world models—learned representations and predictors of environment dynamics for perception, planning, and decision making</p>
+         </li>
       </ul>
       <li>NewsLetters</li>
       <ul>
