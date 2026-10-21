@@ -273,6 +273,8 @@ Internet world is huge, so as resources to learn any new things. There are numer
          </details>
          <li><a href="https://mlcontests.com/">ML Contests</a></li>
          <p>This website contains a list of ongoing ML competitions across various platforms</p>
+         <li><a href="https://www.aicompetition.dev/en">AI Competition Radar</a></li>
+         <p>This website lists upcoming AI/ML competitions and hackathons with deadlines, eligibility notes and links to the official pages</p>
          <li><a href="https://medium.com/analytics-vidhya/top-25-machine-learning-hackathons-its-here-now-for-anyone-to-move-to-data-science-a93deb2a198a">List of ML hackathon platforms</a></li>
          <p>This blog written by Vetrivel PS has list of Data Science competition platforms.</p>
       </ul>
