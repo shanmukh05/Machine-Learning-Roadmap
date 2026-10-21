@@ -496,6 +496,9 @@ Internet world is huge, so as resources to learn any new things. There are numer
          <li>
             <p><a href="https://cloud-gpus.com/">This site has all list of available Cloud GPUs and their pricing</a> </p>
          </li>
+         <li>
+            <p><a href="https://grabgpu.com/">Cloud GPU prices with live stock from 22 providers, updated every hour</a> </p>
+         </li>
       </ul>
       <li>Join these communities</li>
       <ul>
